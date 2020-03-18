@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+.header{
+    /* background-color:rgb(255, 188, 2); */
+    background-image: url("Mango-Banner.jpg");
+    text-align: center;
+    padding: 20px;
+}
+
+.body{
+    padding: 20px;
+}
